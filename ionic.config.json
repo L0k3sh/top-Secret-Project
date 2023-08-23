@@ -1,0 +1,7 @@
+{
+  "name": "topSecretProject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
